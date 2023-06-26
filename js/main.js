@@ -75,7 +75,7 @@ const cardAPI = (function(){
         const flipCardFront = $("<div>").addClass("flip-card-front");
         const flipCardFrontContent = $("<div>").addClass("flip-card-front-content");
         const flipCardBack = $("<div>").addClass("flip-card-back");
-        const cardImg = $("<img>").addClass("card-img").attr("src", `images/${card['card-back'].image}`);
+        const cardImg = $("<img>").addClass("card-img").attr("src", `../images/${card['card-back'].image}`);
         const cardH1 = $("<h1>").text(card['card-front']['main-heading']);
         const cardP = $("<p>").text(`${card['card-front']['sub-heading']}`.toUpperCase());
 
