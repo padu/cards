@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Card Flip with Text</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="panel">
+      <!-- Card Deck -->
+      <div class="card-deck">
+      </div>
+      <!-- Welcome Page -->
+      <div class="welcome-page">
+        <div class="welcome-message">
+          <h1>Welcome to the world of English Aphabets</h1>
+          <p>There are 26 Aphabets in english language, Lets Start!!</p>
+          <button onclick="cardAPI.startAnimation()">START</button>
+        </div>
+      </div>
+      <!-- End Page -->
+      <div class="end-page">
+        <div class="end-message">
+          <h1>Thanks You</h1>
+          <p>Now you know all the 26 Aphabets in english language?</p>
+          <button onclick="cardAPI.startAnimation()">REPLAY</button>
+        </div>
+      </div>
+    </div>  
+  </body>
+  <script src="./js/main.js"></script>
+</html>

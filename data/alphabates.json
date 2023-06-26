@@ -1,0 +1,212 @@
+{
+    "cards": [{
+        "card-front": {
+            "main-heading": "A",
+            "sub-heading": "Apple"
+        },
+        "card-back": {
+            "image": "a.png"
+        }
+    }, {
+        "card-front": {
+            "main-heading": "B",
+            "sub-heading": "Ball"
+        },
+        "card-back": {
+            "image": "b.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "C",
+            "sub-heading": "Cat"
+        },
+        "card-back": {
+            "image": "c.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "D",
+            "sub-heading": "Dog"
+        },
+        "card-back": {
+            "image": "d.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "E",
+            "sub-heading": "Elephant"
+        },
+        "card-back": {
+            "image": "e.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "F",
+            "sub-heading": "Fish"
+        },
+        "card-back": {
+            "image": "f.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "G",
+            "sub-heading": "Goat"
+        },
+        "card-back": {
+            "image": "g.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "H",
+            "sub-heading": "Horse"
+        },
+        "card-back": {
+            "image": "h.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "I",
+            "sub-heading": "Ice Cream"
+        },
+        "card-back": {
+            "image": "i.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "J",
+            "sub-heading": "Joker"
+        },
+        "card-back": {
+            "image": "j.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "K",
+            "sub-heading": "Kite"
+        },
+        "card-back": {
+            "image": "k.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "L",
+            "sub-heading": "Lion"
+        },
+        "card-back": {
+            "image": "l.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "M",
+            "sub-heading": "Monkey"
+        },
+        "card-back": {
+            "image": "m.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "N",
+            "sub-heading": "Nest"
+        },
+        "card-back": {
+            "image": "n.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "O",
+            "sub-heading": "Owl"
+        },
+        "card-back": {
+            "image": "o.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "P",
+            "sub-heading": "Parrot"
+        },
+        "card-back": {
+            "image": "p.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "Q",
+            "sub-heading": "Queen"
+        },
+        "card-back": {
+            "image": "q.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "R",
+            "sub-heading": "Rabbit"
+        },
+        "card-back": {
+            "image": "r.png"
+        }
+    },
+    {
+        "card-front": {
+            "main-heading": "S",
+            "sub-heading": "Sun"
+        },
+        "card-back": {
+            "image": "s.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "T",
+            "sub-heading": "Tiger"
+        },
+        "card-back": {
+            "image": "t.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "U",
+            "sub-heading": "Umbrella"
+        },
+        "card-back": {
+            "image": "u.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "V",
+            "sub-heading": "Van"
+        },
+        "card-back": {
+            "image": "v.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "W",
+            "sub-heading": "Watch"
+        },
+        "card-back": {
+            "image": "w.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "X",
+            "sub-heading": "Xylophone"
+        },
+        "card-back": {
+            "image": "x.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "Y",
+            "sub-heading": "Yak"
+        },
+        "card-back": {
+            "image": "y.png"
+        }
+    },{
+        "card-front": {
+            "main-heading": "Z",
+            "sub-heading": "Zebra"
+        },
+        "card-back": {
+            "image": "z.png"
+        }
+    }]
+}
