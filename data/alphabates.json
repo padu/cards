@@ -5,7 +5,7 @@
             "sub-heading": "Apple"
         },
         "card-back": {
-            "image": "a.png"
+            "image": "a.jpg"
         }
     }, {
         "card-front": {
@@ -13,7 +13,7 @@
             "sub-heading": "Ball"
         },
         "card-back": {
-            "image": "b.png"
+            "image": "b.PNG"
         }
     },{
         "card-front": {
@@ -21,7 +21,7 @@
             "sub-heading": "Cat"
         },
         "card-back": {
-            "image": "c.png"
+            "image": "c.PNG"
         }
     },{
         "card-front": {
@@ -29,7 +29,7 @@
             "sub-heading": "Dog"
         },
         "card-back": {
-            "image": "d.png"
+            "image": "d.PNG"
         }
     },{
         "card-front": {
@@ -37,7 +37,7 @@
             "sub-heading": "Elephant"
         },
         "card-back": {
-            "image": "e.png"
+            "image": "e.PNG"
         }
     },{
         "card-front": {
@@ -45,7 +45,7 @@
             "sub-heading": "Fish"
         },
         "card-back": {
-            "image": "f.png"
+            "image": "f.PNG"
         }
     },{
         "card-front": {
@@ -53,7 +53,7 @@
             "sub-heading": "Goat"
         },
         "card-back": {
-            "image": "g.png"
+            "image": "g.PNG"
         }
     },{
         "card-front": {
@@ -61,7 +61,7 @@
             "sub-heading": "Horse"
         },
         "card-back": {
-            "image": "h.png"
+            "image": "h.PNG"
         }
     },{
         "card-front": {
@@ -69,7 +69,7 @@
             "sub-heading": "Ice Cream"
         },
         "card-back": {
-            "image": "i.png"
+            "image": "i.PNG"
         }
     },{
         "card-front": {
@@ -77,7 +77,7 @@
             "sub-heading": "Joker"
         },
         "card-back": {
-            "image": "j.png"
+            "image": "j.PNG"
         }
     },{
         "card-front": {
@@ -85,7 +85,7 @@
             "sub-heading": "Kite"
         },
         "card-back": {
-            "image": "k.png"
+            "image": "k.PNG"
         }
     },{
         "card-front": {
@@ -93,7 +93,7 @@
             "sub-heading": "Lion"
         },
         "card-back": {
-            "image": "l.png"
+            "image": "l.PNG"
         }
     },{
         "card-front": {
@@ -101,7 +101,7 @@
             "sub-heading": "Monkey"
         },
         "card-back": {
-            "image": "m.png"
+            "image": "m.PNG"
         }
     },{
         "card-front": {
@@ -109,7 +109,7 @@
             "sub-heading": "Nest"
         },
         "card-back": {
-            "image": "n.png"
+            "image": "n.PNG"
         }
     },{
         "card-front": {
@@ -117,7 +117,7 @@
             "sub-heading": "Owl"
         },
         "card-back": {
-            "image": "o.png"
+            "image": "o.PNG"
         }
     },{
         "card-front": {
@@ -125,7 +125,7 @@
             "sub-heading": "Parrot"
         },
         "card-back": {
-            "image": "p.png"
+            "image": "p.PNG"
         }
     },{
         "card-front": {
@@ -133,7 +133,7 @@
             "sub-heading": "Queen"
         },
         "card-back": {
-            "image": "q.png"
+            "image": "q.PNG"
         }
     },{
         "card-front": {
@@ -141,7 +141,7 @@
             "sub-heading": "Rabbit"
         },
         "card-back": {
-            "image": "r.png"
+            "image": "r.PNG"
         }
     },
     {
@@ -150,7 +150,7 @@
             "sub-heading": "Sun"
         },
         "card-back": {
-            "image": "s.png"
+            "image": "s.PNG"
         }
     },{
         "card-front": {
@@ -158,7 +158,7 @@
             "sub-heading": "Tiger"
         },
         "card-back": {
-            "image": "t.png"
+            "image": "t.PNG"
         }
     },{
         "card-front": {
@@ -166,7 +166,7 @@
             "sub-heading": "Umbrella"
         },
         "card-back": {
-            "image": "u.png"
+            "image": "u.PNG"
         }
     },{
         "card-front": {
@@ -174,7 +174,7 @@
             "sub-heading": "Van"
         },
         "card-back": {
-            "image": "v.png"
+            "image": "v.PNG"
         }
     },{
         "card-front": {
@@ -182,7 +182,7 @@
             "sub-heading": "Watch"
         },
         "card-back": {
-            "image": "w.png"
+            "image": "w.PNG"
         }
     },{
         "card-front": {
@@ -190,7 +190,7 @@
             "sub-heading": "Xylophone"
         },
         "card-back": {
-            "image": "x.png"
+            "image": "x.PNG"
         }
     },{
         "card-front": {
@@ -198,7 +198,7 @@
             "sub-heading": "Yak"
         },
         "card-back": {
-            "image": "y.png"
+            "image": "y.PNG"
         }
     },{
         "card-front": {
@@ -206,7 +206,7 @@
             "sub-heading": "Zebra"
         },
         "card-back": {
-            "image": "z.png"
+            "image": "z.PNG"
         }
     }]
 }
